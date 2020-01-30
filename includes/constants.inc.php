@@ -19,7 +19,7 @@ Checked Single
 $languages = array(
     "en-US" => "US English",
     "cs-CZ" => "Czech" // ,
-    //"es-ES" => "Spanish (Spain)"
+    "es-ES" => "Spanish (Spain)"
 );
 
 /** -------------------------- Theme File names and  Display Name -------------------------------
