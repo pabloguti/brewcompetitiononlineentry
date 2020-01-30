@@ -1,7 +1,7 @@
 <?php
 /**
  * Module:      es-ES.lang.php
- * Description: This module houses all display text in the English language.
+ * Description: This module houses all display text in the Spanish language.
  * Updated:     September 21, 2018
  */
 
