@@ -1,1 +1,0 @@
-<?php include (ADMIN.'judging_preferences.admin.php'); ?>
