@@ -16,7 +16,8 @@ $languages = array(
     "cs-CZ" => "Czech",
     "en-US" => "English (US)",
     "fr-FR" => "French",
-    "es-419" => "Spanish (Latin America)"
+    "es-419" => "Spanish (Latin America)",
+    "es-ES" => "Spanish (Spain)"
 );
 
 /** -------------------------- Theme File names and  Display Name -------------------------------
@@ -260,6 +261,7 @@ $club_array = array(
     "Ashe Brew Club",
     "Ashtabula Area Homebrewers",
     "Asociacion Civil Somos Cerveceros",
+    "Asociación de Cerveceros Caseros Españoles (ACCE)",
     "Asociacion De Cerveceros Caseros Ecuador",
     "Association of Bloomington-Normal Brewers",
     "Association of Long Island Homebrew Clubs",
